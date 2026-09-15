@@ -41,8 +41,8 @@
       Ссылки
       ------
      
-    [текст ссылки] (https://exmaple.com)
-   [С подсказкой] (https://example.com "При наведении")
+    [текст ссылки](https://exmaple.com)
+   [С подсказкой](https://example.com "При наведении")
    <https://auto-link.com>
 
    [Ссылочный стиль].[1]
@@ -54,4 +54,4 @@
    ![Альт текст]
    ![Логотип](https://musordrop.ru/oficialno)
 
-   [![клик по картинке]](https://musordrop.ru/oficialno)(https://musor.best/)
+   [![клик по картинке](https://musordrop.ru/oficialno)](https://ru.pinterest.com/search/pins/?q=musor%20drop&rs=typed)

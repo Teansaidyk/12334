@@ -52,3 +52,6 @@
    --------
 
    ![Альт текст]
+   ![Логотип](https://musordrop.ru/oficialno)
+
+   [![клик по картинке]](https://musordrop.ru/oficialno)(https://musor.best/)

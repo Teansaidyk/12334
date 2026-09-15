@@ -63,3 +63,15 @@
    >Много строк
    >
    > > Вложенная
+
+Код
+---
+
+```markdown
+print("Hello") Python
+```
+
+```python
+c = a+b
+print(f"{c} = {a} + {b}")
+```

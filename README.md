@@ -52,7 +52,8 @@
    --------
 
    ![Альт текст]
-   ![Логотип](https://avatars.mds.yandex.net/i?id=8fc708bf1f02fa43128fd81b7d8b5e267e5de22f-5278354-images-thumbs&n=13)
+   ![Логотип](<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/e31875e0-eddf-4f5e-9324-e81e9dff1734" />
+)
 
    [![клик по картинке](https://musordrop.ru/oficialno)](https://ru.pinterest.com/search/pins/?q=musor%20drop&rs=typed)
 
